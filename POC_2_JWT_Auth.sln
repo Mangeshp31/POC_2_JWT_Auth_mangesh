@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_2_JWT_Auth", "POC_2_JWT_Auth\POC_2_JWT_Auth.csproj", "{EDC3EB30-BB26-4B19-B6C9-BB7C1E98A79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC3EB30-BB26-4B19-B6C9-BB7C1E98A79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC3EB30-BB26-4B19-B6C9-BB7C1E98A79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC3EB30-BB26-4B19-B6C9-BB7C1E98A79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC3EB30-BB26-4B19-B6C9-BB7C1E98A79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6813C910-2A4F-438E-87ED-6E5574FCA558}
+	EndGlobalSection
+EndGlobal
